@@ -16,6 +16,6 @@
 </head>
 <body>
     <h1>Selamat Datang 👋</h1>
-    <p>Website PHP kamu sudah berjalan!</p>
+    <p>Website Ini Punya Dimas Arya!</p>
 </body>
 </html>
